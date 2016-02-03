@@ -372,6 +372,7 @@ body {
 .post .article-image {
   position: absolute;
   background-color: #000;
+  height: 450px;
   top: 0;
   left: 0;
   right: 0;
